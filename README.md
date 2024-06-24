@@ -1,4 +1,5 @@
 # Online-Code-Compiler
+The Online Code Editor is a dynamic and interactive platform designed for coding and testing HTML, CSS, and JS in real-time and it is perfect for developers, students who want to experiment with web development technologies
 # Live Link
 https://admirable-taffy-912c8c.netlify.app
 # Tech Stack
